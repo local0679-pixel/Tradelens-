@@ -1,0 +1,6 @@
+{
+  "name": "TradeLens",
+  "description": "Professional trading history analyzer & performance analytics terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
